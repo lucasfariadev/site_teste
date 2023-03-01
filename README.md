@@ -1,2 +1,2 @@
-# site_teste
-primeiros sites de teste
+# fatecanos_site
+Protótipo frontend rede social fatec apenas com html
